@@ -10,6 +10,7 @@
     <h1>Yubo(Ango) Genealogy</h1>
     <h1>19th generation</h1>
     <h1>sdfasdkf</h1>
+    <marquee behavior="" direction="">hahahaahha</marquee>
 
 </body>
 </html>
